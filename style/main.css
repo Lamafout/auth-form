@@ -66,7 +66,7 @@ input{
 }
 
 .signButton:hover{
-    background-color: rgb(193, 97, 97);
+    background-color: rgb(30, 29, 107);
     transition: background-color 0.2s;
 }
 
@@ -84,7 +84,7 @@ input{
 }
 
 .showTableButton:hover{
-    background-color: rgb(193, 97, 97);
+    background-color: rgb(30, 29, 107);
     transition: background-color 0.2s;
 }
 
